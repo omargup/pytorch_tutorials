@@ -1,5 +1,3 @@
 # Pytorch tutorials
 
-## 1. Introduction to PyTorch
-
-## 2. Sequence Models
+## 1. Sequence Models
